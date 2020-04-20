@@ -1,0 +1,16 @@
+,date,day,desc,humidity,precip,temp,wind
+0,20 APR,Today,Partly Cloudy,55%,0%,30°18°,SE 10 km/h 
+1,21 APR,Tue,Cloudy,74%,20%,28°20°,SE 14 km/h 
+2,22 APR,Wed,T-Storms,79%,80%,28°16°,S 16 km/h 
+3,23 APR,Thu,Sunny,45%,0%,30°17°,N 11 km/h 
+4,24 APR,Fri,Sunny,45%,10%,35°17°,SW 18 km/h 
+5,25 APR,Sat,Mostly Sunny,51%,20%,27°13°,NNE 19 km/h 
+6,26 APR,Sun,Sunny,43%,10%,27°14°,NNE 12 km/h 
+7,27 APR,Mon,Partly Cloudy,50%,0%,29°17°,S 15 km/h 
+8,28 APR,Tue,Partly Cloudy,58%,10%,30°18°,SSW 20 km/h 
+9,29 APR,Wed,Sunny,57%,20%,31°17°,ENE 12 km/h 
+10,30 APR,Thu,Partly Cloudy,54%,10%,30°17°,ESE 14 km/h 
+11,1 MAY,Fri,Mostly Sunny,54%,0%,31°19°,S 16 km/h 
+12,2 MAY,Sat,Isolated T-Storms,62%,30%,31°20°,SSE 18 km/h 
+13,3 MAY,Sun,Isolated T-Storms,65%,30%,31°20°,SSE 19 km/h 
+14,4 MAY,Mon,Mostly Cloudy,63%,20%,31°20°,SSE 18 km/h 
