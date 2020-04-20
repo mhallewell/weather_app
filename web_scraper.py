@@ -4,7 +4,7 @@ import pandas
 
 page = requests.get("https://weather.com/en-IN/weather/tenday/l/7472a7bbd3a7454aadf596f0ba7dc8b08987b1f7581fae69d8817dffffc487c2")
 soup = BeautifulSoup(page.content,"html.parser")
-all = soup.find("div",{"class":"locations-title ten-day-page-title"}).find("h1").text
+name_of_prediction = soup.find("div",{"class":"locations-title ten-day-page-title"}).find("h1").text
 table = soup.find_all("table",{"class":"twc-table"})
 l=[]
 for items in table:
